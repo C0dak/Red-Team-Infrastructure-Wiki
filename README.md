@@ -117,6 +117,7 @@ Phish-Domain *TAB* RELAY
 ```
 
 [Removing Sender’s IP Address From Email’s Received From Header](https://www.devside.net/wamp-server/removing-senders-ip-address-from-emails-received-from-header)
+[Postfix Guide for removing headers](https://major.io/2013/04/14/remove-sensitive-information-from-email-headers-with-postfix/)
 
 
 ### Configure a catch-all address
